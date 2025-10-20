@@ -20,5 +20,4 @@ The dataset contains information about restaurants including ratings, online ord
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <repository-link>
-
+https://github.com/AYUSH909618/Zomato-Data-Analysis/blob/8cf39e705e4e3c768f6cdc8f21c284091742068f/Untitled15.ipynb
